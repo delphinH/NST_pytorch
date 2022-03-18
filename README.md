@@ -31,8 +31,7 @@
 
 
 
-Take a look at [this amazing repo!]
-(https://github.com/gordicaleksa/pytorch-neural-style-transfer)
+Take a look at [this amazing repo!](https://github.com/gordicaleksa/pytorch-neural-style-transfer)
 
 
 #### Reference
